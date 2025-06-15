@@ -35,11 +35,11 @@
 		<item href="preface.html" id="pref" media-type="application/xhtml+xml"/>
 		<item href="introduction.html" id="intro" media-type="application/xhtml+xml"/>
 		<item href="footnotes.html" id="ftn" media-type="application/xhtml+xml"/>
-		<item href="index.html" id="idx" media-type="application/xhtml+xml"/>
+		<item href="indices.html" id="idx" media-type="application/xhtml+xml"/>
 		<item href="title.html" id="tp" media-type="application/xhtml+xml"/>
 		<item href="images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
-		<item href="images/e9780486121536_i0001.jpg" id="i0001" media-type="image/jpeg"/>
-		<item href="images/e9780486121536_i0002.jpg" id="i0002" media-type="image/jpeg"/>
+		<item href="images/title_page.jpg" id="itp" media-type="image/jpeg"/>
+		<item href="images/bar.jpg" id="ibar" media-type="image/jpeg"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="coverhtml" linear="no"/>

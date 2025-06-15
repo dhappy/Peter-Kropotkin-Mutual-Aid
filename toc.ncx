@@ -107,7 +107,7 @@
 			<navLabel>
 				<text>Index</text>
 			</navLabel>
-			<content src="index.html" />
+			<content src="indices.html" />
 		</navPoint>
 	</navMap>
 </ncx>
