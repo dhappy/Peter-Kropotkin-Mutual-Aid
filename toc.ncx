@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="isbn://9780486121536" />
+	</head>
+	<docTitle>
+		<text>Mutual Aid</text>
+	</docTitle>
+	<navMap>
+		<navPoint id="title" playOrder="1">
+			<navLabel>
+				<text>Title Page</text>
+			</navLabel>
+			<content src="title.html" />
+		</navPoint>
+		<navPoint id="copy" playOrder="2">
+			<navLabel>
+				<text>Copyright Page</text>
+			</navLabel>
+			<content src="copyright.html" />
+		</navPoint>
+		<navPoint id="toc" playOrder="3">
+			<navLabel>
+				<text>Table of Contents</text>
+			</navLabel>
+			<content src="toc.html" />
+		</navPoint>
+		<navPoint id="pref" playOrder="4">
+			<navLabel>
+				<text>Preface to the 1914 Edition</text>
+			</navLabel>
+			<content src="preface.html" />
+		</navPoint>
+		<navPoint id="intro" playOrder="5">
+			<navLabel>
+				<text>Introduction</text>
+			</navLabel>
+			<content src="introduction.html" />
+		</navPoint>
+		<navPoint id="c01" playOrder="6">
+			<navLabel>
+				<text>Ⅰ. Mutual Aid Among Animals</text>
+			</navLabel>
+			<content src="chapter_01.html" />
+		</navPoint>
+		<navPoint id="c02" playOrder="7">
+			<navLabel>
+				<text>Ⅱ. Mutual Aid Among Animals</text>
+			</navLabel>
+			<content src="chapter_02.html" />
+		</navPoint>
+		<navPoint id="c03" playOrder="8">
+			<navLabel>
+				<text>Ⅲ. Mutual Aid Among Savages</text>
+			</navLabel>
+			<content src="chapter_03.html" />
+		</navPoint>
+		<navPoint id="c04" playOrder="9">
+			<navLabel>
+				<text>Ⅳ. Mutual Aid Among the Barbarians</text>
+			</navLabel>
+			<content src="chapter_04.html" />
+		</navPoint>
+		<navPoint id="c05" playOrder="10">
+			<navLabel>
+				<text>Ⅴ. Mutual Aid in the Mediæval City</text>
+			</navLabel>
+			<content src="chapter_05.html" />
+		</navPoint>
+		<navPoint id="c06" playOrder="11">
+			<navLabel>
+				<text>Ⅵ. Mutual Aid in the Mediæval City</text>
+			</navLabel>
+			<content src="chapter_06.html" />
+		</navPoint>
+		<navPoint id="c07" playOrder="12">
+			<navLabel>
+				<text>Ⅶ. Mutual Aid Amongst Ourselves</text>
+			</navLabel>
+			<content src="chapter_07.html" />
+		</navPoint>
+		<navPoint id="c08" playOrder="13">
+			<navLabel>
+				<text>Ⅷ. Mutual Aid Amongst Ourselves</text>
+			</navLabel>
+			<content src="chapter_08.html" />
+		</navPoint>
+		<navPoint id="conc" playOrder="14">
+			<navLabel>
+				<text>Conclusion</text>
+			</navLabel>
+			<content src="conclusion.html" />
+		</navPoint>
+		<navPoint id="app01" playOrder="15">
+			<navLabel>
+				<text>Appendix A</text>
+			</navLabel>
+			<content src="appendix_01.html" />
+		</navPoint>
+		<navPoint id="app02" playOrder="16">
+			<navLabel>
+				<text>Appendix B: The Struggle for Existence in Human Society</text>
+			</navLabel>
+			<content src="appendix_02.html" />
+		</navPoint>
+		<navPoint id="idx" playOrder="17">
+			<navLabel>
+				<text>Index</text>
+			</navLabel>
+			<content src="index.html" />
+		</navPoint>
+	</navMap>
+</ncx>
