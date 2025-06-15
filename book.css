@@ -1,12 +1,7 @@
-@charset "utf-8"; 
+@charset "utf-8";
 
-/* ---------------------------------------------------------- */
-/* Page */
-
-@page {
-}
-
-body {
+:root {
+	color-scheme: light dark;
 }
 
 
@@ -492,7 +487,7 @@ display:inline;
 }
 .p-indent-sidebar, .p-indent-br-sidebar {
 	text-indent: 1em;
-}  
+}
 .p-indent-inverse-sidebar, .p-indent-inverse-br-sidebar {
 	text-indent: -1em;
 	padding-left: 1em;
@@ -875,14 +870,14 @@ a {
 
 .biblio p  {
 	padding-left: 1em;
-	margin-bottom: 0%;  
+	margin-bottom: 0%;
 text-indent: -1em;
 }
 
 
 
 
-/* empty because ignored 
+/* empty because ignored
 .toc_entry_titlePage, .toc_entry_pubInfo, .toc_entry_dedicationPage, .toc_entry_frontMatter, .subtitle-frontMatter, .subtitle-backMatter, .subtitle-alsoby, .subtitle-appendix, .subtitle-aboutAuthorPage, .subtitle-forewordPage {
 }
 */
